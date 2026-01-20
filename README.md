@@ -1,7 +1,5 @@
 # ☕ Starbucks Clone
 
-> **Acesse o projeto online:** [https://miguelzufelatto.github.io/starbucks/](https://miguelzufelatto.github.io/starbucks/)
-
 Projeto desenvolvido como exercício prático para treinar HTML e CSS, recriando a interface da página inicial do Starbucks.
 
 ## 📸 Demonstração
@@ -16,7 +14,6 @@ Você pode ver o site rodando ao vivo aqui: [Demo Online](https://miguelzufelatt
 
 ## 🎯 Objetivos do Projeto
 
-- [x] Recriar o layout fielmente ao original.
 - [x] Praticar o posicionamento de elementos com CSS.
 - [x] Manipular imagens e assets.
 - [x] Publicar o projeto no GitHub Pages.
